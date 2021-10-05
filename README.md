@@ -1,1 +1,3 @@
-# PHYS434_LABS
+# PHYS434 LABS
+
+## Ali Jones
