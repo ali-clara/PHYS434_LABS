@@ -1,3 +1,3 @@
 # PHYS434 LABS
 
-## Ali Jones
+Repo for the labs and homework! By Ali Jones
